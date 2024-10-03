@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I will write here somodays 😌
+I will write here somedays 😌
 
 <!--
 **elnath-tkg/elnath-tkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
